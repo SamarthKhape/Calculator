@@ -11,4 +11,4 @@ This repository contains multiple versions of calculator programs developed in P
 - Exception handling for invalid inputs.
 
 
-* These projects are part of my Python learning journey and portfolio. *
+*These projects are part of my Python learning journey and portfolio.*
